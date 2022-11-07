@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">dArchive</h3> 
-<p align="center"><a href="https://darchive.tk">Demo Link</a></p>
+<p align="center"><a href="https://deearchive.tk/">Demo Link</a></p>
 
 ---
 
